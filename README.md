@@ -1,6 +1,6 @@
 # Trust-Based-HTN-Planning-for-Automated-Vehicles
 
-# INTRODUCTION
+# Introduction
 
 Artificial Intelligence (AI) plays a major role in bringing about changes in our daily life by
 automating processes that reduce manual efforts. Automation in the automobile sector requires
